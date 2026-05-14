@@ -1,0 +1,37 @@
+Creating G-code with Inkscape
+
+The 4xiDraw extension will convert the drawing into G-code commands and send them to the controller through USB automatically.
+
+
+--------------------------------------------------
+1. Prepare the Design
+First, open Inkscape and import the design.
+Select the whole design. 
+With selecting, Go to: Path -> Object to Path  or  press: Ctrl + Shift + C
+
+--------------------------------------------------
+
+2. Open the 4xiDraw Extension
+From the menu bar go to: Extensions -> 4xiDraw -> 4xiDraw Control
+
+--------------------------------------------------
+
+3. Set Up the Pen Servo
+Pen Up Position:     m3 s030
+Pen Down Position:   M3 m3 s090
+Servo Delay:         250 ms [Usually: 200 to 300 ms]
+[Here you can control the pen movement]
+Click: Apply
+
+--------------------------------------------------
+
+4. Save the gcode
+Then a Save window come
+File type: File_Name.gcode  [Example: drawing.gcode]
+Path: Where u want 
+
+--------------------------------------------------
+
+Note:
+1. If needed, check the speed settings from: Setup or Timing tab
+
