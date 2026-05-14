@@ -1,0 +1,14 @@
+Test the Motors
+
+
+1. Open LaserGRBL or UGS
+2. Connect to Arduino UNO
+4. Write in the mini box (command box)
+G0 X10   [Observation: X-axis Stepper motor moves]
+G0 Y10  [Observation: Y-axis Stepper motor moves]
+m3 s010  [Observation: Servo move 10 degree]
+m3 s090  [Observation: Servo move 10 degree]
+
+Note:
+1. All the Motors will move smoothly.
+2. Also you can test the Stepper motor by buttons (left-bottom)

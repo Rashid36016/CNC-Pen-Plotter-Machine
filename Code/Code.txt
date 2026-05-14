@@ -1,0 +1,8 @@
+STEP 1 — Install Arduino IDE
+
+1. Download Arduino IDE:
+https://www.arduino.cc/en/software
+
+2. Install and open Arduino IDE.
+
+3. Connect Arduino UNO using USB cable.

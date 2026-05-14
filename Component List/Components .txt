@@ -1,0 +1,34 @@
+A4 CNC Plotter Machine - Component List
+
+Mechanical Components
+
+1. Arduino Uno
+2. CNC Shield
+3. Stepper Motor Driver (A4988 / DRV8825)
+4. Jumper Wires
+5. DC Female Power Port
+6. 2020 Aluminum Profile (X-axis)
+7. 2040 Aluminum Profile (Y-axis)
+8. M5, M4, M3 Nuts and Bolts
+9. M5 Self-lock Screws
+10. NEMA 17 Stepper Motor (48mm)
+11. Servo Motor
+12. Eccentric Spacer
+13. 3D Printed Parts
+14. Laser Cut Acrylic Parts
+15. 12V 10A SMPS Power Supply
+16. POM Wheels with Bearings
+17. Timing Belt (GT2)
+18. GT2 Pulley
+19. Mounting Base Board (Wood/MDF)
+20. Cable Management (Zip ties, Sleeves)
+
+Electrical & Wiring Components
+
+21. 5mm DC Connector Barrel Jack
+22. 5mm DC Connector Socket
+23. AC Wire (5 yards)
+24. DC Wire (5 yards)
+25. AC Plug
+26. USB Cable (PC to Arduino)
+27. Power Switch

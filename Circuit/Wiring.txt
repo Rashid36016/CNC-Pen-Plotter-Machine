@@ -1,0 +1,28 @@
+Wiring
+
+
+Stepper Motor -> CNC Shield
+X Motor:
+Connect to X-axis motor port
+Y Motor:
+Connect to Y-axis motor port
+
+
+Stepper Drivers:
+Insert A4988/DRV8825 correctly
+IMPORTANT:
+Do NOT reverse driver direction
+
+
+Servo -> CNC Shield
+Signal -> D11
+VCC -> 5V
+GND -> GND
+
+
+Power Supply:
+12V SMPS -> CNC Shield power input
+
+
+USB:
+PC -> Arduino UNO
